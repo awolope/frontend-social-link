@@ -1,0 +1,131 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 10px;
+}
+.attribution a {
+  margin-top: 10px;
+  color: hsl(228, 45%, 44%);
+}
+.attribution:hover {
+  cursor: pointer;
+}
+
+body {
+  background-color: black;
+}
+.container {
+  background-color: rgba(114, 112, 108, 0.514);
+  width: 30%;
+  margin: 0 auto;
+  padding: 40px;
+  border-radius: 10px;
+  display: block;
+  margin-top: 20px;
+}
+img {
+  margin: 0 auto;
+  width: 160px;
+  padding: 30px;
+  border-radius: 300px;
+  display: block;
+}
+h1 {
+  text-align: center;
+  margin-top: -20px;
+}
+h2 {
+  text-align: center;
+  color: rgb(177, 177, 29);
+  font-size: medium;
+  margin-top: -10px;
+}
+p {
+  text-align: center;
+}
+.GitHub {
+  background-color: rgba(114, 112, 108, 0.514);
+  width: 300px;
+  border-radius: 10px;
+  height: 30px;
+  margin-top: -15px;
+  margin: 0 auto;
+  text-align: center;
+  color: white;
+  font-size: larger;
+  padding: 10px;
+}
+.Front-end {
+  background-color: rgba(114, 112, 108, 0.514);
+  width: 300px;
+  border-radius: 10px;
+  height: 30px;
+  margin-top: 20px;
+  margin: 0 auto;
+  text-align: center;
+  color: white;
+  font-size: larger;
+  padding: 10px;
+  margin-top: 15px;
+}
+.LinkedIn {
+  background-color: rgba(114, 112, 108, 0.514);
+  width: 300px;
+  border-radius: 10px;
+  height: 30px;
+  margin: 0 auto;
+  text-align: center;
+  color: white;
+  font-size: larger;
+  padding: 10px;
+  margin-top: 15px;
+}
+.Instagram {
+  background-color: rgba(114, 112, 108, 0.514);
+  width: 300px;
+  border-radius: 10px;
+  height: 30px;
+  margin: 0 auto;
+  text-align: center;
+  color: white;
+  font-size: larger;
+  padding: 10px;
+  margin-top: 15px;
+}
+.Twitter {
+  background-color: rgba(114, 112, 108, 0.514);
+  width: 300px;
+  border-radius: 10px;
+  height: 30px;
+  margin: 0 auto;
+  text-align: center;
+  color: white;
+  font-size: larger;
+  padding: 10px;
+  margin-top: 15px;
+}
+.Twitter:hover {
+  cursor: pointer;
+  background-color: rgb(177, 177, 29);
+  color: white;
+}
+.Instagram:hover {
+  cursor: pointer;
+  background-color: rgb(177, 177, 29);
+  color: white;
+}
+.GitHub:hover {
+  cursor: pointer;
+  background-color: rgb(177, 177, 29);
+  color: white;
+}
+.Front-end:hover {
+  cursor: pointer;
+  background-color: rgb(177, 177, 29);
+  color: white;
+}
+.LinkedIn:hover {
+  cursor: pointer;
+  background-color: rgb(177, 177, 29);
+  color: white;
+}
